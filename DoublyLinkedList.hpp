@@ -1,6 +1,5 @@
-/// @file Assignment01.hpp
-/// @author Chris Catechis <8000945777>
-/// @section 1004
+/// @file DoublyLinkedList.hpp
+/// @author Chris Catechis
 /// @date 1/30/2022
 /// @brief This program creates/implements the LL class, a set of nodes
 /// in the form of a doubly linked list. 

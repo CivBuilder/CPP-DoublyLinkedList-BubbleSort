@@ -1,6 +1,5 @@
 /// @file main.cpp
-/// @author Chris Catechis <8000945777>
-/// @section 1004
+/// @author Chris Catechis
 /// @date 1/30/2022
 /// @brief Testing the LL class.
 
